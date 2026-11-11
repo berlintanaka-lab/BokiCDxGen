@@ -249,7 +249,7 @@ STEPS = [
 
 VALID_STEPS = STEPS[1:]
 DATA_FILE = "boki1_study_data.json"
-EXAM_DATE = datetime.date(2026, 11, 15)
+EXAM_DATE = datetime.date(2027, 2, 21)
 
 # ==============================================================================
 # 2. データ読み込み ＆ 状態サニタイズ
